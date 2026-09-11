@@ -1,0 +1,5 @@
+CREATE DATABASE temp1;
+
+create database temp2;
+
+CREATE DATABASE college;
